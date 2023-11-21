@@ -1,0 +1,205 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+epoch: 0
+loss: 0.6926, acc: 0.5625
+loss: 0.6912, acc: 0.5781
+loss: 0.6879, acc: 0.6146
+loss: 0.6863, acc: 0.6172
+loss: 0.6823, acc: 0.6375
+loss: 0.6786, acc: 0.6510
+loss: 0.6725, acc: 0.6741
+loss: 0.6715, acc: 0.6719
+loss: 0.6722, acc: 0.6632
+loss: 0.6752, acc: 0.6469
+loss: 0.6719, acc: 0.6534
+loss: 0.6747, acc: 0.6406
+loss: 0.6755, acc: 0.6346
+loss: 0.6763, acc: 0.6295
+loss: 0.6777, acc: 0.6229
+loss: 0.6747, acc: 0.6289
+loss: 0.6761, acc: 0.6232
+loss: 0.6759, acc: 0.6215
+loss: 0.6757, acc: 0.6201
+loss: 0.6767, acc: 0.6156
+> max_val_f1: 0.0000, max_val_acc: 0.0000
+> val_acc: 0.6021, val_f1: 0.0000, val_precision: 0.0000, val_recall: 0.0000
+>> saved: /hy-tmp/models/best_state/CM_ATTENTION3
+loss: 0.6769, acc: 0.6131
+loss: 0.6740, acc: 0.6207
+loss: 0.6748, acc: 0.6168
+loss: 0.6780, acc: 0.6068
+loss: 0.6782, acc: 0.6050
+loss: 0.6767, acc: 0.6094
+loss: 0.6762, acc: 0.6100
+loss: 0.6761, acc: 0.6094
+loss: 0.6745, acc: 0.6121
+loss: 0.6741, acc: 0.6125
+loss: 0.6743, acc: 0.6109
+loss: 0.6747, acc: 0.6074
+loss: 0.6756, acc: 0.6051
+loss: 0.6758, acc: 0.6039
+loss: 0.6759, acc: 0.6018
+loss: 0.6766, acc: 0.5990
+loss: 0.6761, acc: 0.5997
+loss: 0.6763, acc: 0.5979
+loss: 0.6759, acc: 0.5970
+loss: 0.6762, acc: 0.5945
+> max_val_f1: 0.0000, max_val_acc: 0.6021
+> val_acc: 0.6195, val_f1: 0.1036, val_precision: 0.8281, val_recall: 0.0553
+>> saved: /hy-tmp/models/best_state/CM_ATTENTION3
+loss: 0.6764, acc: 0.5922
+loss: 0.6769, acc: 0.5908
+loss: 0.6766, acc: 0.5916
+loss: 0.6754, acc: 0.5994
+loss: 0.6750, acc: 0.6028
+loss: 0.6744, acc: 0.6060
+loss: 0.6742, acc: 0.6057
+loss: 0.6734, acc: 0.6074
+loss: 0.6722, acc: 0.6122
+loss: 0.6704, acc: 0.6162
+loss: 0.6695, acc: 0.6158
+loss: 0.6687, acc: 0.6166
+loss: 0.6671, acc: 0.6209
+loss: 0.6655, acc: 0.6244
+loss: 0.6646, acc: 0.6244
+loss: 0.6641, acc: 0.6256
+loss: 0.6637, acc: 0.6245
+loss: 0.6613, acc: 0.6277
+loss: 0.6603, acc: 0.6292
+loss: 0.6595, acc: 0.6297
+> max_val_f1: 0.1036, max_val_acc: 0.6195
+> val_acc: 0.6959, val_f1: 0.5478, val_precision: 0.6707, val_recall: 0.4630
+>> saved: /hy-tmp/models/best_state/CM_ATTENTION3
+loss: 0.6595, acc: 0.6306
+loss: 0.6597, acc: 0.6310
+loss: 0.6583, acc: 0.6329
+loss: 0.6582, acc: 0.6318
+loss: 0.6575, acc: 0.6327
+loss: 0.6564, acc: 0.6340
+loss: 0.6544, acc: 0.6362
+loss: 0.6531, acc: 0.6383
+loss: 0.6512, acc: 0.6413
+loss: 0.6502, acc: 0.6420
+loss: 0.6495, acc: 0.6430
+loss: 0.6471, acc: 0.6445
+loss: 0.6464, acc: 0.6455
+loss: 0.6463, acc: 0.6444
+loss: 0.6452, acc: 0.6446
+loss: 0.6435, acc: 0.6460
+loss: 0.6423, acc: 0.6469
+loss: 0.6400, acc: 0.6490
+loss: 0.6384, acc: 0.6503
+loss: 0.6384, acc: 0.6508
+> max_val_f1: 0.5478, max_val_acc: 0.6959
+> val_acc: 0.7207, val_f1: 0.6533, val_precision: 0.6456, val_recall: 0.6611
+>> saved: /hy-tmp/models/best_state/CM_ATTENTION3
+loss: 0.6369, acc: 0.6520
+loss: 0.6347, acc: 0.6540
+loss: 0.6324, acc: 0.6555
+loss: 0.6319, acc: 0.6566
+loss: 0.6319, acc: 0.6574
+loss: 0.6297, acc: 0.6592
+loss: 0.6293, acc: 0.6595
+loss: 0.6282, acc: 0.6612
+loss: 0.6263, acc: 0.6626
+loss: 0.6255, acc: 0.6642
+loss: 0.6244, acc: 0.6652
+loss: 0.6231, acc: 0.6664
+loss: 0.6216, acc: 0.6677
+loss: 0.6202, acc: 0.6682
+loss: 0.6186, acc: 0.6694
+loss: 0.6172, acc: 0.6709
+loss: 0.6160, acc: 0.6720
+loss: 0.6162, acc: 0.6719
+loss: 0.6143, acc: 0.6736
+loss: 0.6139, acc: 0.6744
+> max_val_f1: 0.6533, max_val_acc: 0.7207
+> val_acc: 0.7419, val_f1: 0.6989, val_precision: 0.6522, val_recall: 0.7529
+>> saved: /hy-tmp/models/best_state/CM_ATTENTION3
+loss: 0.6127, acc: 0.6757
+loss: 0.6117, acc: 0.6765
+loss: 0.6102, acc: 0.6775
+loss: 0.6085, acc: 0.6788
+loss: 0.6074, acc: 0.6801
+loss: 0.6063, acc: 0.6810
+loss: 0.6050, acc: 0.6825
+loss: 0.6033, acc: 0.6840
+loss: 0.6009, acc: 0.6858
+loss: 0.5999, acc: 0.6866
+loss: 0.5990, acc: 0.6881
+loss: 0.5971, acc: 0.6897
+loss: 0.5954, acc: 0.6911
+loss: 0.5929, acc: 0.6930
+loss: 0.5912, acc: 0.6940
+loss: 0.5895, acc: 0.6953
+loss: 0.5899, acc: 0.6950
+loss: 0.5903, acc: 0.6947
+loss: 0.5890, acc: 0.6956
+loss: 0.5872, acc: 0.6966
+> max_val_f1: 0.6989, max_val_acc: 0.7419
+> val_acc: 0.7112, val_f1: 0.7066, val_precision: 0.5931, val_recall: 0.8738
+loss: 0.5848, acc: 0.6976
+loss: 0.5835, acc: 0.6988
+loss: 0.5834, acc: 0.6989
+loss: 0.5824, acc: 0.6998
+loss: 0.5814, acc: 0.7005
+loss: 0.5818, acc: 0.7004
+loss: 0.5812, acc: 0.7010
+loss: 0.5800, acc: 0.7012
+loss: 0.5787, acc: 0.7020
+loss: 0.5769, acc: 0.7026
+loss: 0.5770, acc: 0.7023
+loss: 0.5755, acc: 0.7034
+loss: 0.5742, acc: 0.7042
+loss: 0.5736, acc: 0.7052
+loss: 0.5727, acc: 0.7058
+loss: 0.5718, acc: 0.7066
+loss: 0.5710, acc: 0.7071
+loss: 0.5698, acc: 0.7079
+loss: 0.5687, acc: 0.7089
+loss: 0.5674, acc: 0.7098
+> max_val_f1: 0.6989, max_val_acc: 0.7419
+> val_acc: 0.7494, val_f1: 0.7325, val_precision: 0.6366, val_recall: 0.8624
+>> saved: /hy-tmp/models/best_state/CM_ATTENTION3
+loss: 0.5679, acc: 0.7094
+loss: 0.5664, acc: 0.7104
+loss: 0.5650, acc: 0.7115
+loss: 0.5636, acc: 0.7122
+loss: 0.5624, acc: 0.7131
+loss: 0.5618, acc: 0.7138
+loss: 0.5601, acc: 0.7151
+loss: 0.5588, acc: 0.7160
+loss: 0.5578, acc: 0.7169
+loss: 0.5557, acc: 0.7183
+loss: 0.5547, acc: 0.7190
+loss: 0.5527, acc: 0.7202
+loss: 0.5515, acc: 0.7212
+loss: 0.5503, acc: 0.7220
+loss: 0.5482, acc: 0.7234
+loss: 0.5484, acc: 0.7232
+loss: 0.5476, acc: 0.7235
+loss: 0.5468, acc: 0.7243
+loss: 0.5469, acc: 0.7246
+loss: 0.5460, acc: 0.7250
+> max_val_f1: 0.7325, max_val_acc: 0.7494
+> val_acc: 0.7726, val_f1: 0.7430, val_precision: 0.6752, val_recall: 0.8259
+>> saved: /hy-tmp/models/best_state/CM_ATTENTION3
+loss: 0.5444, acc: 0.7259
+loss: 0.5428, acc: 0.7269
+loss: 0.5426, acc: 0.7264
+loss: 0.5418, acc: 0.7273
+loss: 0.5409, acc: 0.7280
+loss: 0.5411, acc: 0.7280
+loss: 0.5407, acc: 0.7287
+loss: 0.5410, acc: 0.7288
+loss: 0.5410, acc: 0.7291
+loss: 0.5399, acc: 0.7296
+loss: 0.5389, acc: 0.7304
+loss: 0.5385, acc: 0.7309
+loss: 0.5375, acc: 0.7318
+loss: 0.5368, acc: 0.7324
+loss: 0.5360, acc: 0.7330
+loss: 0.5343, acc: 0.7344
+loss: 0.5325, acc: 0.7355
+loss: 0.5327, acc: 0.7356
+loss: 0.5321, acc: 0.7359
+loss: 0.5316, acc: 0.7363
